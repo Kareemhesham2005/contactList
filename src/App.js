@@ -1,5 +1,5 @@
-import "./css/App.css";
-import ListContacts from "./components/ListContacts";
+import "./App.css";
+import ListContacts from "./ListContacts";
 import { useState } from "react";
 
 function App() {
