@@ -43,6 +43,7 @@ function App() {
       />
 
       <Route
+        exact
         path="/create"
         element={<CreateContact onCreateContact={onCreateContact} />}
       />
