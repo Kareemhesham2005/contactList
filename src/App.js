@@ -34,20 +34,22 @@ function App() {
   };
 
   return (
-    <Routes>
-      <Route
-        exact
-        path="https://kareemhesham2005.github.io/contactList/"
-        element={
-          <ListContacts contacts={contacts} onDeleteContact={removeContact} />
-        }
-      />
+    <ListContacts contacts={contacts} onDeleteContact={removeContact} />
 
-      <Route
-        path="https://kareemhesham2005.github.io/contactList/create"
-        element={<CreateContact onCreateContact={onCreateContact} />}
-      />
-    </Routes>
+    //     <Routes>
+    //       <Route
+    //         exact
+    //         path="https://kareemhesham2005.github.io/contactList/"
+    //         element={
+    //           <ListContacts contacts={contacts} onDeleteContact={removeContact} />
+    //         }
+    //       />
+    //
+    //       <Route
+    //         path="https://kareemhesham2005.github.io/contactList/create"
+    //         element={<CreateContact onCreateContact={onCreateContact} />}
+    //       />
+    //     </Routes>
   );
 }
 
