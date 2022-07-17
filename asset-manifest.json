@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c902abc.css",
-    "main.js": "/static/js/main.85b9ffaf.js",
-    "index.html": "/index.html",
-    "static/media/search.svg": "/static/media/search.c7d98dfd3165ca36a268.svg",
-    "static/media/cancel.svg": "/static/media/cancel.149f8d51ce5b036e9159.svg",
-    "static/media/person-add.svg": "/static/media/person-add.8d89c25e8e03548f166d.svg",
-    "static/media/arrow-back.svg": "/static/media/arrow-back.28f889916c64eb75d0c5.svg",
-    "static/media/person.svg": "/static/media/person.d0dfce7af0de19373879.svg",
-    "main.0c902abc.css.map": "/static/css/main.0c902abc.css.map",
-    "main.85b9ffaf.js.map": "/static/js/main.85b9ffaf.js.map"
+    "main.css": "/contactList/static/css/main.c722192b.css",
+    "main.js": "/contactList/static/js/main.be54a778.js",
+    "index.html": "/contactList/index.html",
+    "static/media/search.svg": "/contactList/static/media/search.c7d98dfd3165ca36a268.svg",
+    "static/media/cancel.svg": "/contactList/static/media/cancel.149f8d51ce5b036e9159.svg",
+    "static/media/person-add.svg": "/contactList/static/media/person-add.8d89c25e8e03548f166d.svg",
+    "static/media/arrow-back.svg": "/contactList/static/media/arrow-back.28f889916c64eb75d0c5.svg",
+    "static/media/person.svg": "/contactList/static/media/person.d0dfce7af0de19373879.svg",
+    "main.c722192b.css.map": "/contactList/static/css/main.c722192b.css.map",
+    "main.be54a778.js.map": "/contactList/static/js/main.be54a778.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c902abc.css",
-    "static/js/main.85b9ffaf.js"
+    "static/css/main.c722192b.css",
+    "static/js/main.be54a778.js"
   ]
 }
