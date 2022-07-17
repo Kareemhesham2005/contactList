@@ -25,7 +25,10 @@ const ListContacts = ({ contacts, onDeleteContact }) => {
           value={query}
           onChange={(e) => updateQuery(e.target.value)}
         />
-        <Link to="/create" className="add-contact">
+        <Link
+          to="https://kareemhesham2005.github.io/contactList/create"
+          className="add-contact"
+        >
           Add Contact
         </Link>
       </div>

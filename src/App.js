@@ -30,21 +30,21 @@ function App() {
     };
 
     getContacts();
-    navigate("/");
+    navigate("https://kareemhesham2005.github.io/contactList/");
   };
 
   return (
     <Routes>
       <Route
         exact
-        path="/"
+        path="https://kareemhesham2005.github.io/contactList/"
         element={
           <ListContacts contacts={contacts} onDeleteContact={removeContact} />
         }
       />
 
       <Route
-        path="/create"
+        path="https://kareemhesham2005.github.io/contactList/create"
         element={<CreateContact onCreateContact={onCreateContact} />}
       />
     </Routes>
