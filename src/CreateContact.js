@@ -15,10 +15,7 @@ const CreateContact = ({ onCreateContact }) => {
 
   return (
     <div>
-      <Link
-        to="https://kareemhesham2005.github.io/contactList/"
-        className="close-create-contact"
-      >
+      <Link to="/" className="close-create-contact">
         Close
       </Link>
 
