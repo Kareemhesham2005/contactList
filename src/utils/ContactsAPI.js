@@ -1,6 +1,6 @@
 const api = process.env.REACT_APP_CONTACTS_API_URL || "https://react-contact-server.herokuapp.com/";
 
-let token = localStorage.token;
+let token = "kareem";
 
 if (!token) token = localStorage.token = Math.random().toString(36).substr(-8);
 
